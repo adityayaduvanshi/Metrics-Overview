@@ -213,9 +213,7 @@ h3 {
   color: black;
   font-weight: 600;
 }
-.overview {
-  width: 90%;
-}
+
 .overview__h3 {
   color: black;
   font-size: 1.5rem;
@@ -233,6 +231,7 @@ h3 {
   border-radius: 10%;
 }
 .overview {
+   width: 80%;
   border: none;
   margin: 1rem;
   box-shadow: 0 3px 4px rgba(0, 0, 0, 0.15);
